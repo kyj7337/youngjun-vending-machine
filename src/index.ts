@@ -34,6 +34,7 @@ class VendingMachine {
   }
 }
 
+export default VendingMachine;
 // *
 // * 이하는 로그 입니다.
 // *
